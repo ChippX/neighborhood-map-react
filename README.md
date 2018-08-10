@@ -9,9 +9,7 @@ To test this App in your machine, just follow the steps below:
 - More information [Here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#offline-first-considerations)
 
 
-## Technology
-- ReactJs
-- HTML
-- CSS
-- Foursquare API
-- Google Maps API
+## Technologies & Packages:
+* [Reactjs:](https://reactjs.org) A JavaScript library for building user interfaces.
+* [MediaWiki:](https://www.mediawiki.org/wiki/API:Main_page) It is a web service that provides convenient access to wiki features, data, and meta-data over HTTP, via a URL usually at api.php.
+* [Google Maps JavaScript API:](https://developers.google.com/maps/documentation/javascript/tutorial) It lets you customize maps with your own content and imagery for display on web pages and mobile devices.
